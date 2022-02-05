@@ -36,22 +36,225 @@ Simchi-Levi, David, S. David Wu, and Zuo-Jun Shen, eds. _Handbook of Quantitativ
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction and overview | &nbsp; |
-| 2 | Single-warehouse, single-product deterministic inventory models: Constant demand, infinite horizon | &nbsp; |
-| 3 | Single-warehouse, single-product deterministic inventory models: Constant demand, finite horizon | &nbsp; |
-| 4-5 | Single-warehouse, multi-product inventory model | Assignment 1 due (Ses #4) |
-| 6-8 | Single-warehouse, multi-retailer models | Assignment 2 due (Ses #7) |
-| 9 | Guest lecture | &nbsp; |
-| 10-11 | Time-varying demand | Assignment 3 due (Ses #10) |
-| 12 | Stochastic inventory models: Newsvendor models | &nbsp; |
-| 13-14 | Supply contracts | &nbsp; |
-| 15-16 | Stochastic inventory models: Multi-period, finite horizon | Case study due (Ses #16) |
-| 17-18 | Pricing models | Assignment 4 due (Ses #17) |
-| 19 | Guest lecture | &nbsp; |
-| 20-21 | The bullwhip effect | Assignment 5 due (Ses #20) |
-| 22 | Guest lecture | &nbsp; |
-| 23 | Green logistics | &nbsp; |
-| 24 | Vendor-managed inventory | &nbsp; |
-| 25 | Project presentations |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction and overview
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Single-warehouse, single-product deterministic inventory models: Constant demand, infinite horizon
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Single-warehouse, single-product deterministic inventory models: Constant demand, finite horizon
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4-5
+{{< tdclose >}}
+{{< tdopen >}}
+Single-warehouse, multi-product inventory model
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 1 due (Ses #4)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6-8
+{{< tdclose >}}
+{{< tdopen >}}
+Single-warehouse, multi-retailer models
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 2 due (Ses #7)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Guest lecture
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10-11
+{{< tdclose >}}
+{{< tdopen >}}
+Time-varying demand
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 3 due (Ses #10)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Stochastic inventory models: Newsvendor models
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13-14
+{{< tdclose >}}
+{{< tdopen >}}
+Supply contracts
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15-16
+{{< tdclose >}}
+{{< tdopen >}}
+Stochastic inventory models: Multi-period, finite horizon
+{{< tdclose >}}
+{{< tdopen >}}
+Case study due (Ses #16)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17-18
+{{< tdclose >}}
+{{< tdopen >}}
+Pricing models
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 4 due (Ses #17)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Guest lecture
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20-21
+{{< tdclose >}}
+{{< tdopen >}}
+The bullwhip effect
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 5 due (Ses #20)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Guest lecture
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Green logistics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Vendor-managed inventory
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Project presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

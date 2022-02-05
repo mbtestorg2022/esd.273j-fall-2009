@@ -42,7 +42,7 @@ A-1) A London based company purchases two raw materials from the same supplier. 
 
 Under the coordinated control, let _T_ be the time in years between replenishments. Find the best value of _T_ and the order quantity for each item. Assume shortage is not allowed.
 
-A-2) In the classical EOQ model assumes that when we order _Q_ units, we receive our order in two parts. The first part arrives immediately and contains α_Q_ (0 < α ≤ 1) and the second part arrives _T_ units of time after the first part and contains the rest of the order ((1−α)_Q_). If shortage is not allowed what is the optimal order quantity, _Q_?
+A-2) In the classical EOQ model assumes that when we order _Q_ units, we receive our order in two parts. The first part arrives immediately and contains α_Q_ (0 \< α ≤ 1) and the second part arrives _T_ units of time after the first part and contains the rest of the order ((1−α)_Q_). If shortage is not allowed what is the optimal order quantity, _Q_?
 
 A-3) Prove that the worst-case bound for heuristic developed in class for the single-warehouse multi-item model is tight. That is, construct an example for which the cost of the heuristic is twice the cost of the optimal solution.
 

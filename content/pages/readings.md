@@ -9,22 +9,225 @@ Course Textbook
 
 Simchi-Levi, David, Xin Chen, and Julien Bramel. _The Logic of Logistics: Theory, Algorithms, and Applications for Logistics and Supply Chain Management_. 2nd ed. New York, NY: Springer, 2004. ISBN: 9780387221991.
 
-| SES # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 | Introduction and overview | Chapter 1 |
-| 2 | Single-warehouse, single-product deterministic inventory models: Constant demand, infinite horizon | Chapter 6.1.1 |
-| 3 | Single-warehouse, single-product deterministic inventory models: Constant demand, finite horizon | Chapter 6.1.2 |
-| 4-5 | Single-warehouse, multi-product inventory model | Chapter 6.2 |
-| 6-8 | Single-warehouse, multi-retailer models | Chapter 6.3 |
-| 9 | Guest lecture | &nbsp; |
-| 10-11 | Time-varying demand | Chapter 7 |
-| 12 | Stochastic inventory models: Newsvendor models | Chapter 11.1 |
-| 13-14 | Supply contracts | &nbsp; |
-| 15-16 | Stochastic inventory models: Multi-period, finite horizon | Chapter 11.2 |
-| 17-18 | Pricing models | &nbsp; |
-| 19 | Guest lecture | &nbsp; |
-| 20-21 | The bullwhip effect | &nbsp; |
-| 22 | Guest lecture | &nbsp; |
-| 23 | Green logistics | &nbsp; |
-| 24 | Vendor-managed inventory | &nbsp; |
-| 25 | Project presentations |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction and overview
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Single-warehouse, single-product deterministic inventory models: Constant demand, infinite horizon
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 6.1.1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Single-warehouse, single-product deterministic inventory models: Constant demand, finite horizon
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 6.1.2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4-5
+{{< tdclose >}}
+{{< tdopen >}}
+Single-warehouse, multi-product inventory model
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 6.2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6-8
+{{< tdclose >}}
+{{< tdopen >}}
+Single-warehouse, multi-retailer models
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 6.3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Guest lecture
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10-11
+{{< tdclose >}}
+{{< tdopen >}}
+Time-varying demand
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Stochastic inventory models: Newsvendor models
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 11.1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13-14
+{{< tdclose >}}
+{{< tdopen >}}
+Supply contracts
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15-16
+{{< tdclose >}}
+{{< tdopen >}}
+Stochastic inventory models: Multi-period, finite horizon
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 11.2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17-18
+{{< tdclose >}}
+{{< tdopen >}}
+Pricing models
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Guest lecture
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20-21
+{{< tdclose >}}
+{{< tdopen >}}
+The bullwhip effect
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Guest lecture
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Green logistics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Vendor-managed inventory
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Project presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
