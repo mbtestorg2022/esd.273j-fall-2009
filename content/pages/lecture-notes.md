@@ -14,6 +14,6 @@ Logistics and Distribution Systems: Dynamic Economic Lot Sizing Model ([PDF]({{<
 
 Introduction to Stochastic Inventory Models and Supply Contracts ([PDF]({{< baseurl >}}/resources/mitesd_273jf09_lec05))
 
-Newsboy Model with Pricing (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitesd_273jf09_lec06))
+Newsboy Model with Pricing ([PDF]({{< baseurl >}}/resources/mitesd_273jf09_lec06))
 
 Analysis of Inventory Models with Limited Demand Information ([PDF]({{< baseurl >}}/resources/mitesd_273jf09_lec07))
